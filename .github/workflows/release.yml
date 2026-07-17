@@ -42,13 +42,13 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: SwitchModDownloader-arm64
-          path: SwitchModDownloader/SwitchModDownloader-arm64.zip
+          path: SwitchModDownloader-arm64.zip
           
       - name: Upload x86_64 artifact
         uses: actions/upload-artifact@v4
         with:
           name: SwitchModDownloader-x86_64
-          path: SwitchModDownloader/SwitchModDownloader-x86_64.zip
+          path: SwitchModDownloader-x86_64.zip
           
   release:
     name: Create Release
