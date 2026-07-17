@@ -34,7 +34,6 @@ jobs:
           
       - name: Create app bundles
         run: |
-          cd SwitchModDownloader
           chmod +x build.sh
           ./build.sh
           
