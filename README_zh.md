@@ -1,11 +1,11 @@
-# Switch Mod Downloader
+# Switch Mod Downloader for macOS
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-macOS-lightgrey.svg)](https://www.apple.com/macos)
 [![Swift](https://img.shields.io/badge/Swift-5.9-orange.svg)](https://swift.org)
 [![SwiftUI](https://img.shields.io/badge/UI-SwiftUI-blue.svg)](https://developer.apple.com/xcode/swiftui/)
 
-一款原生 macOS 应用，用于从 GameBanana 下载 Nintendo Switch 游戏模组。
+专为 macOS 打造的原生应用，用于从 GameBanana 下载 Nintendo Switch 游戏模组。采用现代 SwiftUI 界面，为 Mac 用户提供流畅体验。
 
 **[English](README.md)**
 
@@ -17,7 +17,8 @@
 - 📦 **模组发现** - 浏览模组，支持分类过滤、关键词搜索和排序
 - 📥 **下载管理** - 下载模组文件，支持进度跟踪和历史记录
 - 💾 **缓存系统** - 高效缓存以提升性能
-- 🎨 **原生界面** - 使用 SwiftUI 构建，提供流畅的 macOS 体验
+- 🖥️ **macOS 原生** - 专为 macOS 设计，拥有原生外观和体验
+- 🎨 **SwiftUI 界面** - 使用 SwiftUI 构建现代界面，流畅的 Mac 体验
 - ⚡ **现代架构** - MVVM 模式配合 async/await，响应迅速
 
 ---
@@ -61,7 +62,7 @@
 
 ## 使用方法
 
-1. 启动 **Switch Mod Downloader**
+1. 启动 **Switch Mod Downloader for macOS**
 2. 使用搜索栏搜索游戏
 3. 浏览所选游戏的可用模组
 4. 点击模组查看详情
@@ -197,4 +198,3 @@ SwitchModDownloader/
 ## 相关项目
 
 - [SimpleModDownloader](https://github.com/PoloNX/SimpleModDownloader) - 原版 Switch 自制程序
-- [SimpleModManager](https://github.com/nadrino/SimpleModManager) - Switch 模组管理器

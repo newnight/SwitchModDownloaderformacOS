@@ -1,11 +1,11 @@
-# Switch Mod Downloader
+# Switch Mod Downloader for macOS
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-macOS-lightgrey.svg)](https://www.apple.com/macos)
 [![Swift](https://img.shields.io/badge/Swift-5.9-orange.svg)](https://swift.org)
 [![SwiftUI](https://img.shields.io/badge/UI-SwiftUI-blue.svg)](https://developer.apple.com/xcode/swiftui/)
 
-A native macOS application for downloading Nintendo Switch game mods from GameBanana.
+A native macOS application for downloading Nintendo Switch game mods from GameBanana. Built specifically for Mac users with a modern SwiftUI interface.
 
 **[中文文档](README_zh.md)**
 
@@ -17,7 +17,8 @@ A native macOS application for downloading Nintendo Switch game mods from GameBa
 - 📦 **Mod Discovery** - Browse mods with category filtering, keyword search, and sorting options
 - 📥 **Download Management** - Download mod files with progress tracking and history
 - 💾 **Cache System** - Efficient caching for improved performance
-- 🎨 **Native UI** - Built with SwiftUI for a seamless macOS experience
+- 🖥️ **macOS Native** - Designed exclusively for macOS with native look and feel
+- 🎨 **SwiftUI Interface** - Modern UI built with SwiftUI for seamless Mac experience
 - ⚡ **Modern Architecture** - MVVM pattern with async/await for responsive performance
 
 ---
@@ -61,7 +62,7 @@ Download the latest release from the [Releases](../../releases) page.
 
 ## Usage
 
-1. Launch **Switch Mod Downloader**
+1. Launch **Switch Mod Downloader for macOS**
 2. Search for a game using the search bar
 3. Browse available mods for the selected game
 4. Click on a mod to view details
