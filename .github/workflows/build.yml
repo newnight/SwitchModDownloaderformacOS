@@ -48,6 +48,6 @@ jobs:
         with:
           name: build-artifacts
           path: |
-            SwitchModDownloader/SwitchModDownloader-arm64.zip
-            SwitchModDownloader/SwitchModDownloader-x86_64.zip
+            SwitchModDownloader-arm64.zip
+            SwitchModDownloader-x86_64.zip
           retention-days: 7
