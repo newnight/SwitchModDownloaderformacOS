@@ -1,0 +1,72 @@
+/* English */
+
+/* Common */
+"Follow System" = "Follow System";
+"Light" = "Light";
+"Dark" = "Dark";
+"List" = "List";
+"Grid" = "Grid";
+"Download" = "Download";
+"Select" = "Select";
+"Appearance" = "Appearance";
+"Theme" = "Theme";
+"Default View" = "Default View";
+"Default Sort" = "Default Sort";
+"Language" = "Language";
+"Interface Language" = "Interface Language";
+"Relevance" = "Relevance";
+"Popularity" = "Popularity";
+"Newest" = "Newest";
+"Recently Updated" = "Recently Updated";
+
+/* Search */
+"Enter game name..." = "Enter game name...";
+"Please enter search keyword" = "Please enter search keyword";
+"No matching games found" = "No matching games found";
+"Search Mods..." = "Search Mods...";
+"No Mods available" = "No Mods available";
+
+/* Mod Detail */
+"Description" = "Description";
+"Files" = "Files";
+"Download All" = "Download All";
+"Download Complete" = "Download Complete";
+"Image load failed" = "Image load failed";
+"Paused" = "Paused";
+"Remaining" = "Remaining";
+"Downloading" = "Downloading";
+"Downloading files" = "Downloading files";
+"Total results" = "Total";
+"Page" = "Page";
+"loaded" = "loaded";
+"Open Directory" = "Open Directory";
+"Downloading" = "Downloading";
+"No download history" = "No download history";
+"No active downloads" = "No active downloads";
+
+/* Loading */
+"Loading..." = "Loading...";
+"No content" = "No content";
+"Retry" = "Retry";
+"Load More" = "Load More";
+
+/* Results */
+"Total %d results, Page %d, %d loaded" = "Total %d results, Page %d, %d loaded";
+
+/* Errors */
+"Network request failed" = "Network request failed";
+"Request timeout, please try again later" = "Request timeout, please try again later";
+"Network unavailable, please check settings" = "Network unavailable, please check settings";
+"API Error" = "API Error";
+"Invalid response data" = "Invalid response data";
+"Data parse failed" = "Data parse failed";
+"Game not found" = "Game not found";
+"Mod not found" = "Mod not found";
+"No matching content found" = "No matching content found";
+"Download failed" = "Download failed";
+"Insufficient disk space" = "Insufficient disk space";
+"No write permission" = "No write permission";
+"Download interrupted" = "Download interrupted";
+"Invalid config" = "Invalid config";
+"Config load failed, using defaults" = "Config load failed, using defaults";
+"Selected path has no write permission" = "Selected path has no write permission";

@@ -1,0 +1,9 @@
+.build
+.debug
+build
+dist/SwitchModDownloader.app
+SwitchModDownloader.zip
+dist/SwitchModDownloader-arm64.app
+dist/SwitchModDownloader-x86_64.app
+SwitchModDownloader-arm64.zip
+SwitchModDownloader-x86_64.zip

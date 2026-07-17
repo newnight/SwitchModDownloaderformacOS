@@ -1,0 +1,72 @@
+/* Chinese */
+
+/* Common */
+"Follow System" = "跟随系统";
+"Light" = "浅色";
+"Dark" = "深色";
+"List" = "列表";
+"Grid" = "平铺";
+"Download" = "下载";
+"Select" = "选择";
+"Appearance" = "外观";
+"Theme" = "主题模式";
+"Default View" = "默认视图";
+"Default Sort" = "默认排序";
+"Language" = "语言";
+"Interface Language" = "界面语言";
+"Relevance" = "相关性";
+"Popularity" = "流行度";
+"Newest" = "最新";
+"Recently Updated" = "最近更新";
+
+/* Search */
+"Enter game name..." = "输入游戏名称...";
+"Please enter search keyword" = "请输入搜索关键词";
+"No matching games found" = "未找到匹配游戏";
+"Search Mods..." = "搜索 Mod...";
+"No Mods available" = "暂无 Mod";
+
+/* Mod Detail */
+"Description" = "描述";
+"Files" = "文件";
+"Download All" = "下载全部";
+"Download Complete" = "下载完成";
+"Image load failed" = "图片加载失败";
+"Paused" = "已暂停";
+"Remaining" = "剩余";
+"Downloading" = "正在下载";
+"Downloading files" = "正在下载文件";
+"Total results" = "共";
+"Page" = "第";
+"loaded" = "个已加载";
+"Open Directory" = "打开目录";
+"Downloading" = "正在下载";
+"No download history" = "暂无下载记录";
+"No active downloads" = "暂无下载任务";
+
+/* Loading */
+"Loading..." = "加载中...";
+"No content" = "暂无内容";
+"Retry" = "重试";
+"Load More" = "加载更多";
+
+/* Results */
+"Total %d results, Page %d, %d loaded" = "共 %d 个结果，第 %d 页，已加载 %d 个";
+
+/* Errors */
+"Network request failed" = "网络请求失败";
+"Request timeout, please try again later" = "请求超时，请稍后重试";
+"Network unavailable, please check settings" = "网络连接不可用，请检查网络设置";
+"API Error" = "API 错误";
+"Invalid response data" = "无效的响应数据";
+"Data parse failed" = "数据解析失败";
+"Game not found" = "未找到游戏";
+"Mod not found" = "未找到 Mod";
+"No matching content found" = "未找到匹配内容";
+"Download failed" = "下载失败";
+"Insufficient disk space" = "磁盘空间不足";
+"No write permission" = "目标路径没有写入权限";
+"Download interrupted" = "下载已中断";
+"Invalid config" = "配置无效";
+"Config load failed, using defaults" = "配置加载失败，已使用默认设置";
+"Selected path has no write permission" = "所选路径没有写入权限";
